@@ -8,7 +8,13 @@
     <div  class="welcome-content">
         <h1 class="test-title">Welcome to TODO App</h1>
         <button class="w3-button" onclick="testApp()">Start</button>
+    </div>
+    <div class="operations">
+        <p>Operations :   </p><textarea id="note"></textarea><button class="w3-button" onclick="addWork(document.getElementById('note').value)">Add Work</button>
         
     </div>
-</body>
+    <div class="elements">
+        <p id="value"></p>
+    </div>
+    </body>
 </html>

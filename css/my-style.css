@@ -32,3 +32,13 @@ body{
 .w3-button {
     width:150px;
 }
+
+.elements {
+    text-align: left;
+    text-decoration-color: brown;
+}
+
+.operations {
+    color: black;
+    font: 40px;
+}
