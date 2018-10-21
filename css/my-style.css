@@ -1,0 +1,34 @@
+h1{
+    font: bold;
+    text-align: center;
+    background-color: darkslategrey;
+    font-family: cursive;
+    color: crimson;
+}
+
+body{
+    background-color: darkslategray;
+
+}
+
+.link{
+    text-align: center;
+    color: blueviolet;
+}
+
+
+.test-title{
+    text-align: center;
+    align-content:center;
+    color: blue;
+}
+
+.welcome-content{
+    text-align: center;
+    align-content: center;
+    background-color: darkgreen;
+}
+
+.w3-button {
+    width:150px;
+}
